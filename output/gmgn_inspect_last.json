@@ -1,0 +1,19 @@
+{
+  "fetchedAt": "2025-10-02T11:28:36.908Z",
+  "pageResult": {
+    "ok": true,
+    "status": 200,
+    "contentType": "application/json; charset=utf-8",
+    "rawText": "{\"code\":0,\"reason\":\"\",\"message\":\"success\",\"data\":{\"new_creation\":[],\"pump\":[],\"completed\":[]}}",
+    "json": {
+      "code": 0,
+      "reason": "",
+      "message": "success",
+      "data": {
+        "new_creation": [],
+        "pump": [],
+        "completed": []
+      }
+    }
+  }
+}
